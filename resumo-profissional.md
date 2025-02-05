@@ -1,34 +1,31 @@
-Resumo Profissional
-👋 Olá! Meu nome é Débora Alves  e estou em transição de carreira para a área de tecnologia. Sou formada em Análise de Sistemas e tenho especialização em Gestão de Projetos, com foco em metodologias ágeis.
+# Resumo Profissional
 
-Atualmente, estou me atualizando e desenvolvendo habilidades na área de tecnologia, com interesse em Análise de Dados, Gestão de Projetos e Análise de Processos.
+👋 Olá! Meu nome é **Débora Alves** e estou em transição de carreira para a área de tecnologia. Sou formada em **Análise de Sistemas** e tenho especialização em **Gestão de Projetos**, com foco em metodologias ágeis.
 
-📌 Habilidades Técnicas (Hard Skills):
+Atualmente, estou me atualizando e desenvolvendo habilidades na área de tecnologia, com interesse em **Análise de Dados**, **Gestão de Projetos** e **Análise de Processos**.
 
-Gestão de Projetos 
-Git e GitHub (iniciante)
-SQL para análise de dados (iniciante)
-Excel aplicado a dados
-Análise e documentação de processos
-Fluxogramas e mapeamento de sistemas
+## Habilidades Técnicas (Hard Skills)
+- **Gestão de Projetos**   
+- **Git** e **GitHub** (iniciante)  
+- **SQL** para análise de dados (iniciante)  
+- **Excel** aplicado a dados  
+- Análise e documentação de processos  
+- Fluxogramas e mapeamento de sistemas
 
-🎯 Habilidades Interpessoais (Soft Skills):
+## Habilidades Interpessoais (Soft Skills)
+- Organização e planejamento  
+- Resolução de problemas  
+- Pensamento analítico  
+- Facilidade em aprender novas tecnologias
 
-Organização e planejamento
-Resolução de problemas
-Pensamento analítico
-Facilidade em aprender novas tecnologias
+## O que estou aprendendo atualmente?
+Atualmente, estou fazendo um curso de **Introdução à Inteligência Artificial aplicada a dados**, onde aprendo sobre Git, GitHub, SQL, Banco de Dados Relacional, Excel e outras ferramentas essenciais para análise de dados.
 
-🚀 O que estou aprendendo atualmente?
-Atualmente, estou fazendo um curso de Introdução à Inteligência Artificial aplicada a dados, onde aprendo sobre Git, GitHub, SQL, Banco de Dados Relacional, Excel e outras ferramentas essenciais para análise de dados.
+## Áreas de Interesse
+- Análise de Dados e BI  
+- Gestão de Projetos e Métodos Ágeis  
+- Análise de Processos e Qualidade
 
-💡 Áreas de interesse:
-
-Análise de Dados e BI
-Gestão de Projetos e Métodos Ágeis
-Análise de Processos e Qualidade
-
-📬 Contato:
-
-https://www.linkedin.com/in/débora-alves-9b439687/
-deboraalvesfr@gmail.com
+## Contato
+- [Meu LinkedIn](https://www.linkedin.com/in/seunome)  
+- [Meu E-mail](mailto:seuemail@dominio.com)
